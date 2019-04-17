@@ -1,5 +1,5 @@
 movie apps using reactjs
 # moviesApp-reactjs
 
-link ===> https://wadchab.github.io/MovieReact/
+link ===> https://alikchaou.github.io/moviesApp-reactjs/
 # moviesApp-reactjs
